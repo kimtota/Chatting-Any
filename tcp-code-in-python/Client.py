@@ -1,5 +1,5 @@
 from socket import *
-severName = 'Server'
+serverName = 'Server'
 serverPort = 12000
 
 clientSocket = socket(AF_INET, SOCK_STREAM)
