@@ -10,6 +10,6 @@ while True:
 	connectionSocket, addr = serverSocket.accept()
 	sentence = connectionSocket.recv(1024).decode()
 	capitalizedSentence = sentence.upper()
-	connectionSort.send(capitalizedSetence.encode())
+	connectionSocket.send(capitalizedSetence.encode())
 	connectionSocket.close()
 
