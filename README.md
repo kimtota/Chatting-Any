@@ -1,7 +1,7 @@
 <div align="center">
   
   # Chatting-Any
-  ### OS 무관 채팅 프로그램 만들기
+  ### OS 무관 채팅 프로그램 만들기 (진행중 !)
   ### Chat program beyond OS
 
 
